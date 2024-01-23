@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/controller:v1.5.1
+FROM docker.io/library/bitnami/kaniko:1.19.2
